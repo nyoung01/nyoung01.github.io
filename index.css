@@ -3,5 +3,13 @@ body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     margin-left: 20%;
     margin-right: 20%;
-    background-color: CornflowerBlue;
+    background-color: SkyBlue;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
 }
