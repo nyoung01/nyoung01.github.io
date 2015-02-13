@@ -5,6 +5,10 @@ body {
     margin-right: 5%;
 }
 
+#header {
+    font-style: center;
+}
+
 ul.non_bullet_list {
     list-style-type: none;
 }
